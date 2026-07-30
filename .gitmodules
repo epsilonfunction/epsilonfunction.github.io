@@ -1,0 +1,9 @@
+[submodule "personal-page/themes/ananke"]
+	path = personal-page/themes/ananke
+	url = https://github.com/gohugo-ananke/ananke
+[submodule "personal-page/themes/jane"]
+	path = personal-page/themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane
+[submodule "personal-page/themes/hugo-theme-monochrome"]
+	path = personal-page/themes/hugo-theme-monochrome
+	url = https://github.com/kaiiiz/hugo-theme-monochrome.git

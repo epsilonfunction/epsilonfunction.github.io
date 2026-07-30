@@ -1,0 +1,9 @@
+baseURL = 'https://epsilonfunction.github.io/'
+locale = 'en-us'
+title = 'epsilonfunction.github.io'
+theme = 'hugo-theme-monochrome'
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
