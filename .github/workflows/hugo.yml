@@ -112,10 +112,6 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys: hugo-
 
-      # # JY's ownself new direction 
-      - name: Correct Directory
-        run: cd personal-page/
-
 
       - name: Build
         run: |
